@@ -1,0 +1,1 @@
+Creando un nuevo fichero y escribiendo un mensaje en él. Añadiendo una nueva linea de texto.

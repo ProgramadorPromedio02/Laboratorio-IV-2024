@@ -1,0 +1,52 @@
+Trabajo Práctico 13
+
+1. Maneja try-except con la excepción SyntaxError en el siguiente código:
+x = 10
+
+ if x === 42:
+  print(f"x es igual a {x}.")
+ else: 
+  print(f"x no es igual a {x}.")
+
+2. Maneja try-except con la excepción IndexError en el siguiente código:
+
+lista = [1, 2, 3]
+print(lista[5])
+
+3. Maneja try-except con la excepción KeyError en el siguiente código:
+
+dict = {'a': 1, 'b': 2}
+print(dict['c'])
+
+4. Maneja try-except con la excepción NameError en el siguiente código:
+
+print(var_not_defined)
+
+5. Maneja try-except con la excepción ZeroDivisionError en el siguiente código:
+
+result = 10 / 0
+
+6. Maneja try-except con la excepción RecursionError en el siguiente código:
+
+def infinite_recursion():
+    return infinite_recursion()
+
+infinite_recursion()
+
+7. Maneja try-except con la excepción try-except en el siguiente código:
+
+x = int('abc')
+
+8. Maneja try-except con else en el siguiente código:
+
+x = 5 / 1
+
+9. Maneja try-except con finally en el siguiente código:
+
+x = 10 / 0
+
+10. Maneja try-except con else y finally en el siguiente código:
+
+x = 10 / 2
+
+Extra: Aplicar estos este manejo de errores en otros proyectos de trabajo prácticos anteriores.

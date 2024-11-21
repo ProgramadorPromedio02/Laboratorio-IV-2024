@@ -1,0 +1,18 @@
+Trabajo Práctico 1
+
+1. Determina si las siguientes afirmaciones son verdaderas (V) o falsas (F), marcando con una X en la opción correcta:
+ a. Una variable puede empezar con un número. V:   F: X
+ b. Una variable puede iniciar con una letra o guion bajo. V: X  F:
+ c. Una variable puede contener caracteres alfanuméricos. V: X  F: 
+ d. Una variable no puede contener caracteres que no sean alfanuméricos. V: X   F: 
+ e. Una variable no puede distinguir entre mayúsculas y minúsculas. V:   F: X 
+2. Resolver los siguiente problemas:
+ a. Una madre con su hijo quiere saber los gastos que hizo su hijo al comprar una bebida con un costo de 30 pesos,
+ unas galletas con un costo de 10 pesos y un paquete de hamburguesa casera que costaron 50 pesos. Se desea ver 
+ esos valores en pantalla.
+ b. Un instituto pide 3 variables (nombre, apellido y edad), del cual el nombre del alumno es Nicolás, el apellido
+ González y su edad 15. Se desea imprimir estos valores en pantalla.
+ c. Un centro comercial de tienda de celulares necesita saber el código, marca, el modelo, precio y destino de su 
+ producto. Un inspector tiene esos datos, del cual el código llega a ser 34, la marca Samsung, el modelo es un 
+ Galaxy S5, el precio es 24000 pesos y el destino donde tiene que ir es Tafi Viejo. Se necesita imprimir esos 
+ valores y mostrarlos a la sucursal.

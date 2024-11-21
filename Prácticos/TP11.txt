@@ -1,0 +1,12 @@
+Trabajo Práctico 11
+
+1. Escribe una función llamada suma que tome dos argumentos y devuelva su suma.
+2. Escribe una función llamada factorial que tome un número entero y devuelva su factorial.
+3. Escribe una función llamada es_par que tome un número entero y devuelva True si es par y False si es impar.
+4. Escribe una función llamada contar_vocales que tome una cadena de caracteres y devuelva el número de vocales que contiene.
+5. Escribe una función llamada invertir_cadena que tome una cadena de caracteres y devuelva la cadena invertida.
+6. Escribe una función llamada maximo que tome una lista de números y devuelva el número más grande.
+7. Escribe una función llamada calcular_media que tome una lista de números y devuelva la media (promedio).
+8. Escribe una función llamada contar_palabras que tome una cadena de caracteres y devuelva el número de palabras que contiene.
+9. Escribe una función llamada numeros_pares que tome una lista de números y devuelva una nueva lista con solo los números pares.
+10. Escribe una función llamada elementos_unicos que tome una lista y devuelva una nueva lista con solo los elementos únicos (sin duplicados).

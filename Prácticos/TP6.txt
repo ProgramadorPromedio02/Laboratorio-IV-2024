@@ -1,0 +1,21 @@
+Trabajo Práctico 6
+
+1. Escribe un programa que defina una lista de nombres y acceda al segundo nombre de la lista. Luego, imprime ese nombre en pantalla.
+2. Escribe un programa que defina una lista de números y agregue un nuevo número al final de la lista utilizando append(). Luego, agrega otro número en la segunda posición (índice 1) utilizando insert(). Imprime la lista resultante.
+3. Escribe un programa que defina una lista de frutas y remueva una fruta específica utilizando remove(). Luego, imprime la lista resultante.
+4. Escribe un programa que defina una lista de números y determine si un número específico está en la lista utilizando el operador in. Luego, encuentra el índice del número en la lista utilizando index() y muestra ambos resultados.
+5. Escribe un programa que defina una lista de colores y cambie el color en la tercera posición (índice 2) a un nuevo color. Luego, imprime la lista resultante.
+6. Escribe un programa que defina una lista con varios elementos repetidos y cuente cuántas veces aparece un elemento específico utilizando count().
+7. Escribe un programa que defina dos listas y extienda la primera lista con los elementos de la segunda lista utilizando extend(). Luego, imprime la lista resultante.
+8. Escribe un programa que defina una lista de números y elimine el último número utilizando pop(). Luego, imprime el número eliminado y la lista resultante.
+9. Escribe un programa que defina una lista de palabras y la revierta utilizando reverse(). Luego, imprime la lista resultante.
+10. Escribe un programa que defina una lista de números y la ordene en orden ascendente utilizando sort(). Luego, imprime la lista resultante.
+
+
+
+
+
+
+
+
+

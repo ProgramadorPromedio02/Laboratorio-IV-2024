@@ -1,0 +1,14 @@
+Trabajo Práctico 2
+
+1. Determina si las siguientes afirmaciones son verdaderas (V) o falsas (F), marcando con una X en la opción correcta:
+ a. Se pueden mezclar comillas dobles("") y comillas simples(''). V:   F: X
+ b. El valor de un entero no es igual que una cadena de caracteres. V: X  F:
+2. Resolver los siguientes problemas:
+ a. Una cadena de comida quiere saber los tipos de datos que se están usando para almacenar el código de 22, 
+ la ciudad de Santa Fe, la región del Norte, teniendo un Objetivo de 100000$ y hasta el momento tuvieron una 
+ Venta de 50000$. Se desea mostrar y los tipos de esas variables asignadas en pantalla.
+ b. Se tiene la siguiente frase: "Había una vez una serpiente que comía fruta", y se quiere saber su tamaño en la cadena de caracteres.
+ c. Se toma este alfabeto: "A, B, C, D, E", y se quiere tomar el C solamente para mostrar en pantalla.
+ d. Este texto dice: "Hola, soy Goku", y se quiere tomar solamente la palabra "Goku" para mostrar en pantalla.
+ e. Se tiene la siguiente palabra: "BANANA", y se quiere tomar todas las letras que son "A" cada dos pasos y un patrón que es: "EXXEXXE", 
+ y se quiere solo mostrar todas las letras que son "E".

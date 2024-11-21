@@ -1,0 +1,28 @@
+Trabajo Práctico 3
+
+1. Determina si las siguientes afirmaciones son verdaderas (V) o falsas (F), marcando con una X en la opción correcta:
+ a. El método capitalize() convierte toda la cadena a mayúsculas. V:   F: X
+ b. El método find() devuelve -1 si el carácter no se encuentra en la cadena. V: X  F: 
+ c. El método index() lanza una excepción si el carácter no se encuentra en la cadena. V: X  F:
+ d. El método isalnum() devuelve True si la cadena contiene solo letras y/o números. V: X  F:
+ e. El método isalpha() devuelve True si la cadena contiene solo letras. V: X  F:
+ f. El método isdecimal() devuelve True si la cadena contiene solo caracteres decimales. V:   X F:
+ g. El método isdigit() devuelve True si la cadena contiene solo dígitos. V: X  F:
+ h. El método islower() devuelve True si la cadena contiene solo letras minúsculas. V: X  F:
+ i. El método isupper() devuelve True si la cadena contiene solo letras mayúsculas. V: X  F:
+ j. El método lower() convierte la cadena a minúsculas. V: X  F:
+ k. El método upper() convierte la cadena a mayúsculas. V: X  F:
+2. Resolver los siguiente problemas:
+ a. Escribe un programa que tome una cadena de texto del usuario y la convierta a mayúscula solo en el primer carácter. 
+ b. Escribe un programa que tome una cadena de texto y un carácter del usuario, y busque la primera aparición del carácter 
+ en la cadena. 
+ c. Escribe un programa que tome una cadena de texto y un carácter del usuario, y devuelva el índice de la primera 
+ aparición del carácter en la cadena. (Nota: Si el carácter no se encuentra, ocurrirá una excepción de error).
+ d. Escribe un programa que tome una cadena de texto del usuario y verifique si todos los caracteres son alfanuméricos.
+ e. Escribe un programa que tome una cadena de texto del usuario y verifique si todos los caracteres son letras.
+ f. Escribe un programa que tome una cadena de texto del usuario y verifique si todos los caracteres son decimales.
+ g. Escribe un programa que tome una cadena de texto del usuario y verifique si todos los caracteres son dígitos.
+ h. Escribe un programa que tome una cadena de texto del usuario y verifique si todos los caracteres están en minúsculas.
+ i. Escribe un programa que tome una cadena de texto del usuario y verifique si todos los caracteres están en mayúsculas.
+ j. Escribe un programa que tome una cadena de texto del usuario y la convierta a minúsculas y mayúsculas, respectivamente.
+ 

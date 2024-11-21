@@ -1,0 +1,8 @@
+Trabajo Práctico 7
+
+1. Escribe un programa que defina una tupla con una serie de números y acceda al tercer número en la tupla. Luego, imprime ese número en pantalla.
+2. Escribe un programa que defina una tupla con nombres de frutas y determine si una fruta específica está en la tupla utilizando el operador in. Luego, encuentra el índice de la fruta en la tupla utilizando index() y muestra ambos resultados.
+3. Escribe un programa que defina una tupla con varios elementos repetidos y cuente cuántas veces aparece un elemento específico utilizando count(). Luego, imprime el resultado.
+4. Escribe un programa que defina una tupla con una lista de palabras. Luego, accede al penúltimo elemento de la tupla utilizando un índice negativo y lo imprime en pantalla.
+5. Escribe un programa que defina una tupla con varios números enteros, algunos de los cuales se repiten. Luego, cuenta cuántas veces aparece el número 7 en la tupla utilizando el método count() y muestra el resultado.
+6. Escribe un programa que defina una tupla con varios colores. Luego, verifica si el color "verde" está en la tupla utilizando el operador in y muestra un mensaje adecuado dependiendo del resultado.

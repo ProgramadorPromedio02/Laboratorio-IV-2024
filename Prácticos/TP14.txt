@@ -1,0 +1,12 @@
+Trabajo Práctico 14
+
+1. Crea una clase llamada Persona que tenga atributos nombre y edad. Define un método llamado saludar que imprima un mensaje con el nombre y la edad de la persona. Luego, crea dos instancias de la clase Persona con diferentes nombres y edades, y utiliza el método saludar para cada instancia.
+
+2. Define una clase base llamada Animal con un método llamado hacer_sonido que no haga nada (puedes usar pass). Luego, crea dos clases derivadas, Perro y Gato, que hereden de Animal y sobrescriban el método hacer_sonido para devolver "Guau" y "Miau" respectivamente. Crea instancias de las clases Perro y Gato, y llama al método hacer_sonido en cada instancia.
+
+3. Crea una clase Motor con un atributo potencia y un método encender que imprima un mensaje indicando que el motor está encendido. Luego, crea una clase Coche con atributos marca, modelo y una instancia de la clase Motor. Define un método arrancar en la clase Coche que utilice el método encender del Motor y un método mostrar_detalles que imprima la marca, el modelo y la potencia del motor del coche. Crea una instancia de Coche y utiliza sus métodos para probar la composición.
+
+4. Crea una clase base llamada Figura con un método area que devuelva 0. Luego, crea dos clases derivadas, Rectangulo y Circulo, que sobrescriban el método area para calcular y devolver el área de un rectángulo y un círculo, respectivamente. Usa el polimorfismo para crear una lista de figuras y calcula el área de cada una utilizando un bucle.
+
+5. Crea una clase llamada Empleado con un atributo de clase num_empleados que lleve la cuenta de cuántos empleados se han creado. Define un método de clase mostrar_num_empleados que imprima este número. Cada vez que se cree una nueva instancia de Empleado, incrementa el contador num_empleados. Crea varias instancias de Empleado y muestra el número total de empleados usando el método de clase.
+

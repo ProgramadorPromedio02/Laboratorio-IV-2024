@@ -1,0 +1,153 @@
+Trabajo Práctico 15
+
+1. Sin usar el módulo numpy, crea dos matrices de 3x3 y escribe una función para sumar estas matrices. Imprime la matriz resultante.
+
+# Datos
+matriz1 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+
+matriz2 = [
+    [9, 8, 7],
+    [6, 5, 4],
+    [3, 2, 1]
+]
+
+2. Sin usar el módulo numpy, crea dos matrices de 3x3 y escribe una función para multiplicar estas matrices. Imprime la matriz resultante.
+
+# Datos
+matriz1 = [
+    [1, 4, 7],
+    [2, 5, 8],
+    [3, 6, 9]
+]
+
+matriz2 = [
+    [9, 6, 3],
+    [8, 5, 2],
+    [7, 4, 1]
+]
+
+3. Crea una matriz de 3x3 y escribe una función para calcular la transpuesta de esta matriz. Imprime la matriz transpuesta.
+
+# Datos
+matriz = [
+    [2, 4, 6],
+    [1, 3, 5],
+    [9, 7, 8]
+]
+
+4. Utilizando numpy, crea dos matrices de 3x3 y suma estas matrices. Imprime la matriz resultante.
+
+import numpy as np
+
+# Datos
+matriz1 = np.array([
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+])
+
+matriz2 = np.array([
+    [9, 8, 7],
+    [6, 5, 4],
+    [3, 2, 1]
+])
+
+5. Utilizando numpy, crea dos matrices de 3x3 y multiplica estas matrices. Imprime la matriz resultante.
+
+import numpy as np
+
+# Datos
+matriz1 = np.array([
+    [1, 4, 7],
+    [2, 5, 8],
+    [3, 6, 9]
+])
+
+matriz2 = np.array([
+    [9, 6, 3],
+    [8, 5, 2],
+    [7, 4, 1]
+])
+
+6. Utilizando numpy, crea una matriz de 3x3 y calcula su inversa. Imprime la matriz inversa.
+
+import numpy as np
+
+# Datos
+matriz = np.array([
+    [1, 2, 3],
+    [0, 1, 4],
+    [5, 6, 0]
+])
+
+7. Genera un conjunto de datos simple con dos variables (x e y). Utiliza scikit-learn para ajustar un modelo de regresión lineal a estos datos. Grafica los puntos de datos y la línea de regresión utilizando matplotlib.
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# Datos
+x = np.array([1, 2, 3, 4, 5]).reshape(-1, 1)
+y = np.array([1, 2, 3, 4, 5])
+
+8. Utiliza un conjunto de datos pequeño con dos variables. Ajusta un modelo de regresión lineal con scikit-learn y utiliza el modelo para hacer predicciones. Grafica los puntos de datos, la línea de regresión y las predicciones utilizando matplotlib.
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# Datos
+x = np.array([1, 2, 3, 4, 5]).reshape(-1, 1)
+y = np.array([1, 3, 2, 5, 4])
+
+9. Genera un conjunto de datos simple y ajusta un modelo de regresión lineal con scikit-learn. Calcula y muestra el coeficiente de determinación (R²) del modelo. Grafica los puntos de datos y la línea de regresión utilizando matplotlib.
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+
+# Datos
+x = np.array([1, 2, 3, 4, 5]).reshape(-1, 1)
+y = np.array([2, 4, 5, 4, 5])
+
+10. Genera un conjunto de datos con tres variables (x1, x2 e y). Utiliza scikit-learn para ajustar un modelo de regresión lineal múltiple a estos datos. Muestra los coeficientes del modelo y grafica la relación entre las variables dependientes e independientes utilizando matplotlib.
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# Datos
+x1 = np.array([1, 2, 3, 4, 5])
+x2 = np.array([2, 3, 4, 5, 6])
+y = np.array([5, 6, 7, 8, 9])
+X = np.column_stack((x1, x2))
+
+11. Utiliza un conjunto de datos con tres variables. Ajusta un modelo de regresión lineal múltiple con scikit-learn y utiliza el modelo para hacer predicciones. Muestra las predicciones junto con los datos originales utilizando matplotlib.
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+
+# Datos
+x1 = np.array([1, 2, 3, 4, 5])
+x2 = np.array([3, 4, 5, 6, 7])
+y = np.array([6, 8, 7, 10, 12])
+X = np.column_stack((x1, x2))
+
+12. Genera un conjunto de datos con tres variables y ajusta un modelo de regresión lineal múltiple con scikit-learn. Calcula y muestra el coeficiente de determinación (R²) del modelo. Grafica la relación entre las variables dependientes e independientes utilizando matplotlib.
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+
+# Datos
+x1 = np.array([1, 2, 3, 4, 5])
+x2 = np.array([4, 5, 6, 7, 8])
+y = np.array([7, 9, 10, 11, 13])
+X = np.column_stack((x1, x2))

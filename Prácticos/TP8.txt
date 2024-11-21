@@ -1,0 +1,10 @@
+Trabajo Práctico 8
+
+1. Escribe un programa que defina un diccionario con información de un libro (título: Base de Datos - El camino de los datos a la información, autor: Patricio Araneda, año: 2022). Luego, accede y muestra el valor del año de publicación.
+2. Escribe un programa que defina un diccionario con información sobre un estudiante (nombre: Juan, edad: 16). Luego, añade la clave "grado" con un valor adecuado y muestra el diccionario actualizado.
+3. Escribe un programa que defina un diccionario con detalles de un producto (nombre: Laptop, precio: 800). Luego, modifica el precio del producto y muestra el diccionario actualizado.
+4. Escribe un programa que defina un diccionario con información de una persona (nombre: María, edad: 30, dirección: Calle Falsa 123). Luego, elimina la clave "dirección" del diccionario y muestra el diccionario actualizado.
+5. Escribe un programa que defina un diccionario con información sobre una ciudad (nombre, población). Luego, verifica si la clave "nombre" existe en el diccionario y muestra un mensaje adecuado.
+6. Escribe un programa que defina un diccionario con datos de un animal (especie, edad). Luego, utiliza el método get() para acceder al valor de "edad" y muestra el resultado. Si la clave no existe, muestra un mensaje por defecto.
+7. Escribe un programa que defina un diccionario con información sobre un coche (marca, modelo). Luego, utiliza el método update() para añadir un nuevo valor para "año" y modificar el valor de "modelo". Muestra el diccionario actualizado.
+8. Escribe un programa que defina un diccionario con información sobre un producto (nombre, precio, stock). Luego, utiliza el método pop() para eliminar el valor asociado a la clave "stock" y muestra el valor eliminado y el diccionario actualizado.

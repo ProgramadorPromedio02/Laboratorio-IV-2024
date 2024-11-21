@@ -1,0 +1,47 @@
+Trabajo Práctico 5
+
+Resuelve los siguientes problemas:
+ Problema 1: Verificar Edad para Votación
+ ● Enunciado:
+  Escribe un programa que pida al usuario su edad y determine si es mayor de edad para votar en su país. La edad mínima para votar es 18 años.
+ ● Requisitos:
+  ◯ Si el usuario tiene 18 años o más, el programa debe imprimir "Puedes votar."
+  ◯ Si el usuario tiene menos de 18 años, el programa debe imprimir "No puedes votar."
+
+ Problema 2: Calcular Descuento en una Tienda
+ ● Enunciado: 
+  Escribe un programa que calcule el descuento en una tienda en función del monto de la compra. Si el monto es mayor o igual a 1000 pesos, 
+ se aplica un 10% de descuento(0.10) y se resta; de lo contrario, no se aplica descuento.
+ ● Requisitos:
+  ◯ Si el monto es mayor o igual a 1000 pesos, el programa debe imprimir el monto con el descuento aplicado.
+  ◯ Si el monto es menor a 1000 pesos, el programa debe imprimir el monto original.
+
+ Problema 3: Determinar el Tipo de Triángulo
+  ● Enunciado:
+   Escribe un programa que pida al usuario las longitudes de los tres lados de un triángulo y determine qué tipo de triángulo es. Los tipos posibles son:
+  ◯ Equilátero: Todos los lados son iguales.
+  ◯ Isósceles: Dos lados son iguales.
+  ◯ Escaleno: Todos los lados son diferentes.
+  ● Requisitos:
+  ◯ El programa debe verificar los lados y luego imprimir el tipo de triángulo.
+
+ Problema 4: Clasificación del IMC
+  ● Enunciado:
+   Escribe un programa que calcule el Índice de Masa Corporal (IMC) a partir del peso y la altura del usuario, y luego clasifique el resultado en una de las siguientes categorías:
+  ◯ Bajo peso: IMC < 18.5
+  ◯ Normal: 18.5 ≤ IMC < 24.9
+  ◯ Sobrepeso: 25 ≤ IMC < 29.9
+  ◯ Obesidad: IMC ≥ 30
+  ● Requisitos:
+  ◯ El programa debe pedir al usuario su peso (en kilogramos) y altura (en metros), calcular el IMC y luego imprimir la categoría correspondiente.
+
+ Problema 5: Determinar el Año Bisiesto
+ ● Enunciado:
+   Escribe un programa que determine si un año es bisiesto o no. Un año es bisiesto si cumple con las siguientes condiciones:
+  ◯ Es divisible por 4.
+  ◯ No es divisible por 100, a menos que también sea divisible por 400.
+ ● Requisitos:
+  ◯ El programa debe pedir al usuario un año y luego imprimir si el año es bisiesto o no.
+
+
+

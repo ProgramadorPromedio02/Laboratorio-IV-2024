@@ -1,0 +1,17 @@
+Trabajo Práctico 9
+
+1. Escribe un programa que utilice for y range() para imprimir los números del 0 al 9.
+2. Escribe un programa que utilice for y range() para imprimir los números pares del 0 al 20. Pista: range(inicio, fin, paso)
+3. Escribe un programa que utilice for para iterar sobre una cadena de caracteres e imprima cada carácter en una línea separada.
+4. Escribe un programa que utilice for para iterar sobre una lista de números e imprima cada número multiplicado por 2.
+5. Escribe un programa que utilice for para iterar sobre una tupla de nombres e imprima un saludo para cada nombre.
+6. Escribe un programa que utilice for para iterar sobre las claves de un diccionario e imprima cada clave.
+7. Escribe un programa que utilice for para iterar sobre los valores de un diccionario e imprima cada valor.
+8. Escribe un programa que utilice for para iterar sobre las claves y valores de un diccionario e imprima cada clave y su valor asociado.
+9. Escribe un programa que utilice for y range() para crear una lista de los primeros 10 números cuadrados e imprima la lista.
+10. Escribe un programa que utilice for para iterar sobre una lista de listas (matriz) e imprima cada elemento de las listas internas. Pista: 
+matriz = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]

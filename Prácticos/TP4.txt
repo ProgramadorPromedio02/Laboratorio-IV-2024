@@ -1,0 +1,13 @@
+Trabajo Práctico 4
+
+1. Operaciones Aritméticas
+ a. Escribe un programa que tome dos números del usuario y realice las operaciones de suma, resta, multiplicación y división. Muestra los resultados en pantalla.
+ b. Escribe un programa que tome dos números del usuario y realice la división entera y el módulo. Muestra los resultados en pantalla.
+ c. Escribe un programa que tome una base y un exponente del usuario y calcule el resultado de elevar la base al exponente. Muestra el resultado en pantalla.
+2. Operaciones Lógicas
+ a. Escribe un programa que tome dos valores booleanos del usuario y realice las operaciones lógicas AND, OR y NOT. Muestra los resultados en pantalla.
+3. Asignaciones
+ a. Escribe un programa que realice operaciones de asignación utilizando variables. Muestra los resultados de cada operación en pantalla.
+4. Operaciones Relacionales
+ a. Escribe un programa que tome dos números del usuario y realice las comparaciones de mayor que, menor que e igual. Muestra los resultados en pantalla.
+ b. Escribe un programa que tome dos números del usuario y realice las comparaciones de mayor o igual que, menor o igual que, y no igual. Muestra los resultados en pantalla.

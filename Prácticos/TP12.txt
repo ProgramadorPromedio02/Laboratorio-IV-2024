@@ -1,0 +1,10 @@
+Trabajo Práctico 12
+
+1. Escribe un programa que lea el contenido de un archivo de texto y lo imprima en pantalla.
+2. Escribe un programa que cree un archivo nuevo y escriba un mensaje en él.
+3. Escribe un programa que añada una nueva línea de texto al final de un archivo existente.
+4. Escribe un programa que lea el contenido de un archivo y luego lo sobrescriba con un nuevo contenido.
+5. Escribe un programa que añada contenido al final de un archivo y luego lea todo el contenido del archivo.
+6. Escribe un programa que reemplace todo el contenido de un archivo con un nuevo contenido.
+7. Escribe un programa que reemplace una línea específica en un archivo con una nueva línea. Por simplicidad, asumiremos que la línea a reemplazar es la segunda.
+8. Escribe un programa que reemplace un marcador de posición en un archivo con un valor proporcionado por el usuario.

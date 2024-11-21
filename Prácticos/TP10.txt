@@ -1,0 +1,10 @@
+Trabajo Práctico 10
+
+1. Escribe un programa que utilice un ciclo while para imprimir cada carácter de una cadena de caracteres, uno por línea.
+2. Escribe un programa que utilice un ciclo while para contar el número de vocales en una cadena de caracteres y luego imprima el resultado.
+3. Escribe un programa que utilice un ciclo while para imprimir cada elemento de una lista de números.
+4. Escribe un programa que utilice un ciclo while para sumar todos los elementos de una lista de números y luego imprima la suma total.
+5. Escribe un programa que utilice un ciclo while para imprimir cada elemento de una tupla de nombres.
+6. Escribe un programa que utilice un ciclo while para buscar un nombre específico en una tupla y que imprima un mensaje indicando si el nombre fue encontrado o no.
+7. Escribe un programa que utilice un ciclo while para imprimir todas las claves de un diccionario.
+8. Escribe un programa que utilice un ciclo while para imprimir todas las claves y valores de un diccionario en formato "clave: valor".
